@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo in gh-pages
+https://denkondratiev.github.io/cra-demo/
+
+## This project was bootstrapped with
+[Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
